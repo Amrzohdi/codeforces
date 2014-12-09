@@ -1,0 +1,144 @@
+74C 	  Chessboard Billiard 			 x415
+
+77C 	  Beavermuncher				 x400
+
+44C 	  Holidays 		 		 x395
+
+377C 	  Captains Mode 		 	 x393
+ 
+238C 	  World Eater Brothers 	     		 x389
+
+174C 	  Range Increments 		         x387
+
+126C 	  E-reader Display 		         x383
+
+425C 	  Sereja and Two Sequences 	         x375
+
+113C 	  Double Happiness 		     	 x374
+
+56C 	  Corporation Mail 		         x373
+
+297C 	  Splitting the Uniqueness 	 x370
+
+163C 	  Conveyor 		             x367
+
+241C 	  Mirror Box 		         x365
+
+303C 	  Minimum Modular 		     x363
+
+48C 	  The Race 		             x363
+
+115C 	  Plumber 		             x355
+
+65C 	  Harry Potter and the Golden Snitch 		 x355
+
+54C 	  First Digit Law 		 x352
+
+61C 	  Capture Valerian 		 x349
+
+85C 	  Petya and Tree 		 x348
+
+50C 	  Happy Farm 5 		 x346
+
+2C 	  Commentator problem 		 x343
+
+91C 	  Ski Base 		 x339
+
+26C 	  Parquet 		 x332
+
+429C 	  Guess the Tree 		 x331
+
+293C 	  Cube Problem 		 x331
+
+329C 	  Graph Reconstruction 		 x327
+
+178C1 	  Smart Beaver and Resolving Collisions 		 x327
+
+138C 	  Mushroom Gnomes - 2 		 x327
+
+101C 	  Vectors 		 x326
+
+226C 	  Anniversary 		 x318
+
+150C 	  Smart Cheater 		 x313
+
+69C 	  Game 		 x311
+
+196C 	  Paint Tree 		 x310
+
+89C 	  Chip Play 		 x307
+
+171C 	  A Piece of Cake 		 x302
+
+70C 	  Lucky Tickets 		 x301
+
+142C 	  Help Caretaker 		 x297
+
+130C 	  Decimal sum 		 x289
+
+215C 	  Crosses 		 x287
+
+442C 	  Artem and Array 		 x284
+
+161C 	  Abracadabra 		 x282
+
+316C1 	  Tidying Up 		 x279
+
+60C 	  Mushroom Strife 		 x279
+
+228C 	  Fractal Detector 		 x277
+
+309C 	  Memory for Arrays 		 x276
+
+23C 	  Oranges and Apples 		 x275
+
+364C 	  Beautiful Set 		 x272
+
+167C 	  Wizards and Numbers 		 x266
+
+164C 	  Machine Programming 		 x265
+
+335C 	  More Reclamation 		 x261
+
+277C 	  Game 		 x260
+
+19C 	  Deletion of Repeats 		 x260
+
+407C 	  Curious Array 		 x256
+
+176C 	  Playing with Superglue 		 x253
+
+188C 	  LCM 		 x251
+
+348C 	  Subset Sums 		 x246
+
+316C2 	  Tidying Up 		 x244
+
+100C 	  A+B 		 x234
+
+17C 	  Balance 		 x230
+
+360C 	  Levko and Strings 		 x226
+
+182C 	  Optimal Sum 		 x226
+
+134C 	  Swaps 		 x225
+
+123C 	  Brackets 		 x225
+
+72C 	  Extraordinarily Nice Numbers 		 x222
+
+42C 	  Safe cracking 		 x219
+
+11C 	  How Many Squares? 		 x217
+
+28C 	  Bath Queue 		 x214
+
+64C 	  Table 		 x199
+
+440C 	  One-Based Arithmetic 		 x198
+
+86C 	  Genetic engineering 		 x196
+
+68C 	  Synchrophasotron 		 x196
+

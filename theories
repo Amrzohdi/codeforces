@@ -1,0 +1,7 @@
+int num= prime 
+int x= x%num, z= z%num;
+we cant say that x/y = x%prime / y%prime
+the solution is   x* pow(y,prime-2); 
+
+
+sum of the geometric series =  a*   (1- r^n) /  (1- r) 

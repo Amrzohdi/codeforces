@@ -1,0 +1,110 @@
+1- 272C 		Dima and Staircase		    x1923	Implmentation
+2- 437C 		The Child and Toy		    x1909	Graphs/Implmentation
+3- 402C 		Searching for Graph		    x1844	bruteForce
+4- 313C 		Ilya and Matrix			    x1798	Greedy          
+5- 165C 		Another Problem on Strings  	    x1747	math/bruteforce 29/6
+6- 203C 		Photographer			    x1689	greedy/sorting 29/6
+7- 417C 		Football			    x1670	implmentation 29/6
+8- 363C 		Fixing Typos			    x1663	implmentation/greedy/tricky 29/6
+9- 337C 		Quiz			            x1642	Math/greedy 	29/6
+10- 441C 		Valera and Tubes		    x1610	implmentation 	1/7
+11- 6C 			Alice, Bob and Chocolate	    x1591	greedy/cumulative array 1/7
+12- 271C 		Secret			            x1568	implmentation  1/7 
+13- 166C 		Median			            x1562	greedy/math  1/7 	   12:10->12:27
+14- 353C 		Find Maximum			    x1552	math/ cumulative array 1/7 12:53->1:45
+15- 400C 		Inna and Huge Candy Matrix  	    x1544	Matrics,with rotations implmentatio 
+16- 340C 		Tourist Problem			    x1536	Math/combinatorics    2/7 9:16 -> 2:59 (Hard)
+17- 152C 		Pocket Book		 	    x1532	combinatorics  2/7  4:29 -> 5:00
+18- 431C 		k-Tree			            x1530	dp 2/7
+20- 350C 		Bombs			            x1494	implmentation ebn mra / 2/7
+22- 144C 		Anagram Search			    x1475	strings
+19- 369C 		Valera and Elections	   	    x1505	dfs, i couldn't solve it 
+23- 234C 		Weather			            x1461	cumulative array 	
+21- 9C 			Hexadecimal's Numbers	    	    x1477	i cant understand it
+24- 219C 		Color Stripe			    x1449	strings / baid 
+25- 339C 		Xenia and Weights		    x1446  	Building Path
+26- 382C 		Arithmetic Progression	            x1442	sorting
+27- 237C 		Primes on Interval		    x1436	TwoPointers/seive prime array
+28- 291C 		Network Mask			    x1427	
+29- 159C 		String Manipulation 1.0	   	    x1423	ms2la 3beta , fsh5 kont b7bsha hatgeeb TLE
+30- 137C 		History	                            x1386	sorting l2eem 
+31- 412C 		Pattern	implementation	 	    x1370	implementation
+32- 371C 		Hamburgers			    x1336	implmentation
+33- 149C 		Division into Teams		    x1308	math /greedy /sorting
+34- 435C 		Cardiogram			    x1294	implmentation
+36- 3C 			Tic-tac-toe	               	    x1286	games/implmentation		
+37- 279C 		Ladder			            x1278	BinarySearch/implmentation	
+38- 385C 		Bear and Prime Numbers		    x1270	sieveArray/ greedy/math
+39- 416C 		Booking System			    x1260	dijkstra/ i haven't solved it yet
+40- 246C 		Beauty Pageant			    x1257	greedy	
+41- 225C 		Barcode			            x1244	didnt solve it yet
+42- 120C 		Winnie-the-Pooh and hone            x1244	fuckin easy 
+43- 427C 		Checkposts			    x1226	didnt solve it yet
+44- 231C 		To Add or Not to Add	    	    x1219	sorting/two pointers
+45- 404C 		Restore Graph			    x1218   	beed , m2rthaash !!
+35- 327C 		Magic Five		            x1286  	fuck it 
+46- 18C 		Stripe			            x1210	easy/implmentation/greedy/cumulative array
+47- 43C 		Lucky Tickets			    x1185	Math/greedy
+48- 140C 		New Year Snowmen		    x1184	treaky/ dataStructure
+49- 260C 		Balls and Boxes			    x1164	greedy/implmentation
+52- 12C 		Fruits			            x1153	
+53- 5C 			Longest Regular Bracket Sequence    x1151	implmentation/greedy	
+54- 148C 		Terse princess			    x1146	greedy/tricky test cases
+55- 439C 		Devu and Partitioning of the Array  x1137	implmentation/number theory
+56- 387C 		George and Number	            x1126	greedy/implmentation
+57- 305C 		Ivan and Powers of Two		    x1124	Math
+58- 106C 		Buns			 	    x1121	dp/implmentation
+59- 300C 		Beautiful Numbers		    x1108	theorys/bruteforce/compination ===>unforgotable
+64- 34C 		Page Numbers			    x1051	
+50- 160C 		Find Pair			    x1157	cant
+61- 336C 		Vasily the Bear and Sequence        x1097	math/implmentation/greedy/unforgotable
+66- 331C1 		The Great Julya Calendar	    x1019	easty math
+67- 41C 		Email address		            x1018	Implmentation
+68- 53C 		Little Frog			    x1004	math
+72- 432C 		Prime Swaps		 	    x951	sorting
+51- 255C 		Almost Arithmetical Progression	    x1155	
+
+60- 288C 		Polo the Penguin and XOR operation  x1105	
+
+
+62- 1C 			Ancient Berland Circus	            x1093	
+63- 409C 		Magnum Opus			    x1066	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+69- 436C 		Dungeons and Candies		    x996	
+70- 257C 		View Angle		            x965	
+
+71- 71C 		Round Table Knights	                 x958	
+
+73- 433C 		Ryouko's Memory Note			 x944	
+74- 81C 		Average Score				 x929	
+75- 250C 		Movie Critics				 x911	
+76- 253C 		Text Editor				 x903	
+77- 366C 		Dima and Salad				 x897	
+78- 342C 		Cupboard and Balloons			 x887	
+79- 180C 		Letter					 x883	
+80- 388C 		Fox and Card Game			 x879	
+
+81- 20C 		Dijkstra?				 x864	
+82- 16C 		Monitor					 x860	
+83- 343C 		Read Time				 x857	
+84- 118C 		Fancy Number				 x857	
+85- 38C 		Blinds					 x855	
+86- 245C 		Game with Coins				 x854	
+87- 172C 		Bus					 x833	
+88- 75C 		Modified GCD				 x832	
+89- 380C 		Sereja and Brackets			 x818	
+90- 294C 		Shaass and Lights			 x814	
+91- 25C 		Roads in Berland			 x792	
