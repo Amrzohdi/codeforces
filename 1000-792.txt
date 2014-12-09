@@ -58,18 +58,14 @@
 64- 34C 		Page Numbers			    x1051	
 50- 160C 		Find Pair			    x1157	cant
 61- 336C 		Vasily the Bear and Sequence        x1097	math/implmentation/greedy/unforgotable
-66- 331C1 		The Great Julya Calendar	    x1019	easty math
-67- 41C 		Email address		            x1018	Implmentation
-68- 53C 		Little Frog			    x1004	math
-72- 432C 		Prime Swaps		 	    x951	sorting
 51- 255C 		Almost Arithmetical Progression	    x1155	
-
 60- 288C 		Polo the Penguin and XOR operation  x1105	
 
 
 62- 1C 			Ancient Berland Circus	            x1093	
 63- 409C 		Magnum Opus			    x1066	
 
+65- 424C 		Magic Formulas			    x1022	
 
 
 
@@ -79,15 +75,14 @@
 
 
 
-
-
-
-
+66- 331C1 		The Great Julya Calendar	    x1019	
+67- 41C 		Email address		            x1018	
+68- 53C 		Little Frog			    x1004	
 69- 436C 		Dungeons and Candies		    x996	
 70- 257C 		View Angle		            x965	
 
 71- 71C 		Round Table Knights	                 x958	
-
+72- 432C 		Prime Swaps				 x951	
 73- 433C 		Ryouko's Memory Note			 x944	
 74- 81C 		Average Score				 x929	
 75- 250C 		Movie Critics				 x911	
